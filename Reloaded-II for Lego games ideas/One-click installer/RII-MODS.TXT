@@ -1,0 +1,19 @@
+// The syntax is very similar to that used by CHARS.TXT, LEVELS.TXT, AREAS.TXT, and other similar files in TCS, LIJ1, and LB1.
+
+mod_start ;; precedes all mod info. Indenting the containing content is optional.
+    source_dir "base/CompleteSaga.mod.Example1" ;; the location in the zip, 7z, or rar where the mod.json is located.
+    mod_id "CompleteSaga.mod.ExampleMod" ;; what to name the new mod's folder, if different from source_dir. 
+    readme "readme.md" ;; copy the readme (or other file of choice) to the mod's root directory
+    extra_file_start ;; an extra file to copy to the mod directory.
+        file "license.txt"
+    extra_file_end
+    extra_file_start
+        file "docs/*.*" ;; would work with multiple files, too.
+        dir "docs"
+    extra_file_end
+mod_end
+
+mod_start
+    source_dir "plugin/CompleteSaga.modplugin.Example2" ;; here we have another mod in the same archive
+    ;; mod_id isn't present, so it'll use "CompleteSaga.modplugin.Example2"
+mod_end
