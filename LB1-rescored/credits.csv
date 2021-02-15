@@ -1,49 +1,63 @@
-Filename,Source title(s),Source, Composer,
-ARKHAM_STATUS,"""Waltz to the Death""",Batman: Original Motion Picture Score,Danny Elfman,
-EP1_BATUSI_DISCO,"""Batusi from Batman '66"" (DLC_BATMAN75_BATUSI_NOFX.OGG)",Lego Batman 3: Beyond Gotham,???,
-EP1_IVYS_GARDEN_A_QUI,"""Ivy's Garden""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP1_IVYS_GARDEN_B_QUI,"""Ivy's Garden""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP1_IVYS_GARDEN_C_QUI,"""Ivy's Garden""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP1_STATUS,"""Partners Three"" and ""Main Titles / Dressing""",Batman & Robin Bootleg OST (High-quality),Elliot Goldenthal,
-EP1_THE_BALL_A_ACT,"""One More Diamond/The Ball""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP1_THE_BALL_B_ACT,"""One More Diamond/The Ball""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP1_THE_BALL_C_ACT,"""One More Diamond/The Ball""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP2_BANE_IS_BORN_ACT,"""Bane is Born""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP2_BANE_IS_BORN_QUI,"""Bane is Born""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal,
-EP2_STATUS,"""A Shadow of Doubt/End Credits""",Batman Returns: Limited Edition (2CD-Set),Danny Elfman,
-EP3_BATMANTOTHERESCUE_A_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_BATMANTOTHERESCUE_B_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_BATMANTOTHERESCUE_C_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_BATMANTOTHERESCUE_D_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_CHILDHOODREMEMBERED_A_QUI,"""Dream / Challenge / Tender Bat Cave""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_CHILDHOODREMEMBERED_B_QUI,"""Dream / Challenge / Tender Bat Cave""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_CHILDHOODREMEMBERED_C_QUI,"""Dream / Challenge / Tender Bat Cave""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_CLOWNATTACK_ACT,"""Clown Attack""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_CLOWNATTACK_QUI,"""Clown Attack""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_COMMERCIAL_ACT,"""Joker's Commercial""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_FIRSTCONFRONTATION_A_ACT,"""Shootout""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_FIRSTCONFRONTATION_B_ACT,"""Shootout""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_FIRSTCONFRONTATION_C_ACT,"""Shootout""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_FUNLAND_QUI,"""Gotham City Funland"" (FUNLAND_QUI.OGG)",Lego Batman 2: DC Super Heroes,Rob Westwood,
-EP3_PAPER_GIFT_UNMASK_A_ACT,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_PAPER_GIFT_UNMASK_A_QUI,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_PAPER_GIFT_UNMASK_C_ACT,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_PAPER_GIFT_UNMASK_C_QUI,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_PAPER_GIFT_UNMASK_D_ACT,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_PAPER_GIFT_UNMASK_D_QUI,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_PHOTOS_BEAUTIFUL_DREAMER_QUI,"""Photos / Beautiful Dreamer""",Batman: Expanded Archival Collection,Stephen Foster,
-EP3_SHOWDOWN_QUI,"""Showdown I / Showdown II from Batman: EAC"" (SHOWDOWN_QUI.OGG)",Lego Batman 2: DC Super Heroes,Danny Elfman,
-EP3_SHOWDOWN_QUI,"""Showdown I, Showdown II from Batman:EAC""",Lego Batman 2: DC Super Heroes,Danny Elfman,
-EP3_STATUS,"""Batman Theme (Reprise) from Batman"" (STATUSMUSIC.OGG)",Lego Batman 3: Beyond Gotham,Danny Elfman,
-EP3_THEFINALCONFRONTATION_ACT,"""The Final Confrontation from Batman"" (THEFINALCONFRONTATION_ACT.OGG)",Lego Batman 2: DC Super Heroes,Danny Elfman,
-EP3_THEFINALCONFRONTATION_ACT,"""The Final Conrontation from Batman""",Lego Batman 2: DC Super Heroes, Danny Elfman,
-EP3_VS_ECKHARDT_CARDSNAP_A_QUI,"""Jack vs. Eckhardt"" and ""Up Building / Card Snap""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_VS_ECKHARDT_CARDSNAP_B_QUI,"""Jack vs. Eckhardt"" and ""Up Building / Card Snap""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_VS_ECKHARDT_CARDSNAP_C_QUI,"""Jack vs. Eckhardt"" and ""Up Building / Card Snap""",Batman: Expanded Archival Collection,Danny Elfman,
-EP3_WACKYJOKER_ACT,"""Carniveral (Wacky Joker Action)"" (WACKYJOKERACT.OGG)",Lego Batman 2: DC Super Heroes,Rob Westwood,
-HUB_TENDER_BATCAVE,"""Dream / Challenge / Tender Bat Cave""",Batman: Expanded Archival Collection,John L. Nelson,
-HUB_WAYNE_DIAMONDS_Qui,"""We Need the Wayne Diamonds""",Batman & Robin Bootleg OST (High-quality),Elliot Goldenthal,
-WAYNE_16BIT_QUI,"""Prologue (Part 2)""",Batman Returns (SNES),Danny Elfman,
-WAYNE_8BIT_QUI,"""8-Bit"" (8BIT.OGG)",Lego Batman 3: Beyond Gotham,Rob Westwood,
-WAYNE_DINNER_KITCHEN_QUI,"""Dinner Transition / Kitchen / Surgery""",Batman: Expanded Archival Collection,Danny Elfman,
-WAYNE_STATUS,"""Wayne's March""",Lego Batman The Movie: DC Super Heroes Unite,Rob Westwood,
+Filename,Source title(s),Source, Composer
+ARKHAM_STATUS,"""Waltz to the Death""",Batman: Original Motion Picture Score,Danny Elfman
+ARKHAM_TEMP_ACT,"""Themes from Batman Forever""",Batman Forever: Limited Edition (2CD-Set),Elliot Goldenthal
+CREDITS_FOREVER,"""Themes from Batman Forever""",Batman Forever: Limited Edition (2CD-Set),Elliot Goldenthal
+CREDITS_LB2,"""End Credits"" (CREDITS.OGG)",Lego Batman 2: DC Super Heroes,Danny Elfman
+CREDITS_RETURNS,"""A Shadow of Doubt / End Credits""",Batman Returns: Limited Edition (2CD-Set),Danny Elfman
+EP1_BATUSI_DISCO,"""Batusi from Batman '66"" (DLC_BATMAN75_BATUSI_NOFX.OGG)",Lego Batman 3: Beyond Gotham,???
+EP1_GOTHAM_BOOGIE_ACT,"""Gotham City Boogie""",Batman Forever: Limited Edition (2CD-Set),Elliot Goldenthal
+EP1_IVYS_GARDEN_A_QUI,"""Ivy's Garden""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP1_IVYS_GARDEN_B_QUI,"""Ivy's Garden""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP1_IVYS_GARDEN_C_QUI,"""Ivy's Garden""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP1_STATUS,"""Partners Three"" and ""Main Titles / Dressing""",Batman & Robin Bootleg OST (High-quality),Elliot Goldenthal
+EP1_THE_BALL_A_ACT,"""One More Diamond / The Ball""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP1_THE_BALL_B_ACT,"""One More Diamond / The Ball""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP1_THE_BALL_C_ACT,"""One More Diamond / The Ball""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP2_BANE_IS_BORN_ACT,"""Bane is Born""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP2_BANE_IS_BORN_QUI,"""Bane is Born""",Batman & Robin Bootleg OST (Low-quality),Elliot Goldenthal
+EP2_STATUS,"""A Shadow of Doubt / End Credits""",Batman Returns: Limited Edition (2CD-Set),Danny Elfman
+EP2_SUPERFREAK_DISCO,"""Super Freak"" (Instrumental)",Batman Returns: Limited Edition (2CD-Set),Rick James and Alonzo Miller 
+EP2_WILDRIDE_ACT,"""Batman's Wild Ride""",Batman Returns: Limited Edition (2CD-Set),Danny Elfman
+EP3_BATMANTOTHERESCUE_A_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_BATMANTOTHERESCUE_B_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_BATMANTOTHERESCUE_C_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_BATMANTOTHERESCUE_D_ACT,"""Batman to the Rescue / Batmobile Charge / Street Fight""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_CHILDHOODREMEMBERED_QUI,"""Dream / Challenge / Tender Bat Cave""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_CLOWNATTACK_ACT,"""Clown Attack""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_CLOWNATTACK_QUI,"""Clown Attack""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_COMMERCIAL_ACT,"""Joker's Commercial""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_DESCENTINTOMYSTERY_ACT,"""Descent into Mystery""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_DESCENTINTOMYSTERY_QUI,"""Descent into Mystery""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_FIRSTCONFRONTATION_A_ACT,"""Shootout""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_FIRSTCONFRONTATION_B_ACT,"""Shootout""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_FIRSTCONFRONTATION_C_ACT,"""Shootout""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_FUNLAND_QUI,"""Gotham City Funland"" (FUNLAND_QUI.OGG)",Lego Batman 2: DC Super Heroes,Rob Westwood
+EP3_JOKERS_MUSAK_QUI,"""Joker's Muzak (Unused)""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_MENATWORK_ACT,"""Men at Work""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_PAPER_GIFT_JOKER_UNMASK_A_ACT,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", ""Joker Flies to Gotham (Unused) / Batwing I"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_PAPER_GIFT_JOKER_UNMASK_C_ACT,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", ""Joker Flies to Gotham (Unused) / Batwing I"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_PAPER_GIFT_UNMASK_QUI,"""Paper Spin / Alicia's Mask"", ""Vicki Gets a Gift"", and ""Alicia's Unmasking""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_PHOTOS_BEAUTIFUL_DREAMER_QUI,"""Photos / Beautiful Dreamer""",Batman: Expanded Archival Collection,Stephen Foster
+EP3_ROASTED_DUDE_QUI,"""Roasted Dude""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_SCARECROW_ACT,"""Arkham Assignment"" (CREEPY_ACT1) and ""Fright of the Scarecrow"" (CREEPY_ACT2)",Lego Batman 2: DC Super Heroes,Rob Westwood
+EP3_SHOWDOWN_QUI,"""Showdown I / Showdown II from Batman: EAC"" (SHOWDOWN_QUI.OGG)",Lego Batman 2: DC Super Heroes,Danny Elfman
+EP3_SHOWDOWN_QUI,"""Showdown I, Showdown II from Batman:EAC""",Lego Batman 2: DC Super Heroes,Danny Elfman
+EP3_STATUS,"""Batman Theme (Reprise) from Batman"" (STATUSMUSIC.OGG)",Lego Batman 3: Beyond Gotham,Danny Elfman
+EP3_THEFINALCONFRONTATION_ACT,"""The Final Confrontation from Batman"" (THEFINALCONFRONTATION_ACT.OGG)",Lego Batman 2: DC Super Heroes,Danny Elfman
+EP3_THEFINALCONFRONTATION_ACT,"""The Final Conrontation from Batman""",Lego Batman 2: DC Super Heroes, Danny Elfman
+EP3_VS_ECKHARDT_CARDSNAP_A_QUI,"""Jack vs. Eckhardt"" and ""Up Building / Card Snap""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_VS_ECKHARDT_CARDSNAP_B_QUI,"""Jack vs. Eckhardt"" and ""Up Building / Card Snap""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_VS_ECKHARDT_CARDSNAP_C_QUI,"""Jack vs. Eckhardt"" and ""Up Building / Card Snap""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_WACKYJOKER_ACT,"""Carniveral (Wacky Joker Action)"" (WACKYJOKERACT.OGG)",Lego Batman 2: DC Super Heroes,Rob Westwood
+EP3_WALTZ_REPRISE_ACT,"""Waltz to the Death""",Batman: Expanded Archival Collection,Danny Elfman
+EP3_WALTZ_REPRISE_QUI,"""Waltz to the Death""",Batman: Expanded Archival Collection,Danny Elfman
+FLENDERMAUSMARSCHMUSIK,"""Flendermausmarschmusik""",Batman Forever: Limited Edition (2CD-Set),
+HUB_BATCAVE_LP <section A>,"""Batcave"" (HUB_BATCAVE)",Lego Batman: The Videogame,Danny Elfman
+HUB_BATCAVE_LP <section B>,"""Dream / Challenge / Tender Bat Cave""",Batman: Expanded Archival Collection,John L. Nelson
+HUB_TENDER_BATCAVE,"""Dream / Challenge / Tender Bat Cave""",Batman: Expanded Archival Collection,John L. Nelson
+HUB_WAYNE_DIAMONDS_Qui,"""We Need the Wayne Diamonds""",Batman & Robin Bootleg OST (High-quality),Elliot Goldenthal
+TITLES_RETURNS,"""Birth of a Penguin / Main Titles""",Batman Returns: Limited Edition (2CD-Set),Danny Elfman
+WAYNE_16BIT_QUI,"""Prologue (Part 2)""",Batman Returns (SNES),Danny Elfman
+WAYNE_8BIT_QUI,"""8-Bit"" (8BIT.OGG)",Lego Batman 3: Beyond Gotham,Rob Westwood
+WAYNE_DINNER_KITCHEN_QUI,"""Dinner Transition / Kitchen / Surgery""",Batman: Expanded Archival Collection,Danny Elfman
+WAYNE_STATUS,"""Wayne's March""",Lego Batman The Movie: DC Super Heroes Unite,Rob Westwood
