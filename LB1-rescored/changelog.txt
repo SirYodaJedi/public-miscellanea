@@ -1,29 +1,58 @@
+v0.2.0
+
+- Added new music to "There She Goes Again".
+-- Part A uses "Shadow of Doom / Clown Attack / Introducing the Bat" as action music and "Sore Spots / Batman's Closet" as quiet music, both from Batman Returns.
+-- Part B uses "Roof Top Encounters" from Batman Returns.
+-- Part C uses "Face to Face" from Batman Returns.
+- Added new music to "Stealing the Show".
+-- Part A uses "Selina Transforms, Part II" from Batman Returns.
+-- Part B uses "Cat Suite" from Batman Returns.
+- Added new music to "A Daring Rescue".
+-- Parts A+B use "Selina Transforms, Part I" and "Catwoman Saves Joan / The New Woman" as quiet music.
+-- Parts C+D use "Fall from Grace" from Batman Returns as quiet music.
+- Added new music to "Zoo's Company".
+-- Parts A-C use "A Shadow of Doubt (alternate) / End Credits (Alternate)" as quiet music.
+-- Parts A-C use "Batman Vs. the Circus" as action music.
+-- Part D uses the "Batman Theme" from Batman 1989, but played backwards.
+- Added new quiet music to "Joker's Home Turf".
+-- Part A now uses "Family / First Batman / Roof Fight" from Batman 1989.
+-- Part C now uses "Bat Zone / Axis Setup" and a portion of "Shootout", both from Batman 1989. This does not actually play due to vanilla trigger issues, however.
+- Extended "Dying of Laughter" part A action music, using "Roof Fight" from Batman 1989.
+- Added new music to the customizer room, using "Batcave / Nygmatech Tango / Public Demo" from Batman Forever.
+- Added ambience track to WayneManor_A, using CC-0 "Night Crickets Back Porch.aiff" from FreeSound.org.
+- Updated credits.
+-- Added proper accreditations for music used and mod authors (English, American, and Spanish)
+-- Changed duration to match new default credits
+-- Changed unused credits for Power-Crazed Penguin to the longer unused alternative track.
+- Clean up spacing in music.cfg to improve readability.
+
+
 v0.1.1
 
-+ Added new music to "Two-Face Chase", "Batboat Battle", and "Harboring a Grudge".
-++ "Two-Face Chase" now uses "Gotham City Boogie" from Batman Forever.
-++ "Batboat Battle" and "Harboring a Grudge" now use "Batman's Wild Ride" from Batman Returns.
-+ Changed the "Disco" music for a section of "Under the City" to instrumental version of "Super Freak" from Batman Returns.
-+ Fixed vanilla behavior of correct track for "Flight of the Bat" not playing.
-+ Added dedicated music and ambience to the Scarecrow boss fight from his scenes in Lego Batman 2.
-+ Added new music and ambience to "Arkham Asylum" super bonus level.
-++ Part A now reuses the Arkham hub music and ambience.
-++ Part B layers the vanilla Arkham Hub ambience with an Arkham level ambience from Lego DC Super Villains
-++ Part B is now temporarily using "Themes from Batman Forever".
-+ Updated Slums and EvilSlums music.
-++ Compressed dynamic range of "Childhood Remembered" in "In the Dark Night" so that it can actually be heard.
-++ Replaced quiet music in parts B and C of "In the Dark Night" with "Dream / Challenge / Tender Batcave" from Batman 1989.
-++ Replaced quiet music in part A of "The Lure of the Night" with "Roasted Dude" from Batman 1989.
-++ Extended action music for parts A and C of "The Lure of the Night" using "Joker Flies to Gotham / Batwing I" from Batman 1989
-++ Changed part D music of "The Lure of the Night" to "Descent into Mystery" from Batman 1989.
-+ Reduced musical repetition in "Dying of Laughter"
-++ Changed part A music to "Men at Work" and "Joker's Muzak" from Batman 1989.
-++ Changed part C music to "Waltz to the Death" from Batman 1989
-+ Changed credits music to the mix from Lego Batman 2.
-+ Extended Batcave music with "Dream / Challenge / Tender Batcave" from Batman 1989.
-+ Added some tracks and Music.cfg entries that are not used due to code limitations (dedicated credits music, dedicated mission briefing music, some things that would need music_other)
+- Added new music to "Two-Face Chase", "Batboat Battle", and "Harboring a Grudge".
+-- "Two-Face Chase" now uses "Gotham City Boogie" from Batman Forever.
+-- "Batboat Battle" and "Harboring a Grudge" now use "Batman's Wild Ride" from Batman Returns.
+- Changed the "Disco" music for a section of "Under the City" to instrumental version of "Super Freak" from Batman Returns.
+- Fixed vanilla behavior of correct track for "Flight of the Bat" not playing.
+- Added dedicated music and ambience to the Scarecrow boss fight from his scenes in Lego Batman 2.
+- Added new music and ambience to "Arkham Asylum" super bonus level.
+-- Part A now reuses the Arkham hub music and ambience.
+-- Part B layers the vanilla Arkham Hub ambience with an Arkham level ambience from Lego DC Super Villains
+-- Part B is now temporarily using "Themes from Batman Forever".
+- Updated Slums and EvilSlums music.
+-- Compressed dynamic range of "Childhood Remembered" in "In the Dark Night" so that it can actually be heard.
+-- Replaced quiet music in parts B and C of "In the Dark Night" with "Dream / Challenge / Tender Batcave" from Batman 1989.
+-- Replaced quiet music in part A of "The Lure of the Night" with "Roasted Dude" from Batman 1989.
+-- Extended action music for parts A and C of "The Lure of the Night" using "Joker Flies to Gotham / Batwing I" from Batman 1989
+-- Changed part D music of "The Lure of the Night" to "Descent into Mystery" from Batman 1989.
+- Reduced musical repetition in "Dying of Laughter"
+-- Changed part A music to "Men at Work" and "Joker's Muzak" from Batman 1989.
+-- Changed part C music to "Waltz to the Death" from Batman 1989
+- Changed credits music to the mix from Lego Batman 2.
+- Extended Batcave music using "Dream / Challenge / Tender Batcave" from Batman 1989.
+- Added some tracks and Music.cfg entries that are not used due to code limitations (dedicated credits music, dedicated mission briefing music, some things that would need music_other)
 
 
 v0.1.0
 
-+ first release
+- First release
