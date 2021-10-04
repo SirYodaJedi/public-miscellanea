@@ -7,7 +7,7 @@ v0.2.0
 - Added new music to "Stealing the Show".
 -- Part A uses "Selina Transforms, Part II" from Batman Returns.
 -- Part B uses "Cat Suite" from Batman Returns.
-- Added new music to "A Daring Rescue".
+- Added new quiet music to "A Daring Rescue".
 -- Parts A+B use "Selina Transforms, Part I" and "Catwoman Saves Joan / The New Woman" as quiet music.
 -- Parts C+D use "Fall from Grace" from Batman Returns as quiet music.
 - Added new music to "Zoo's Company".
